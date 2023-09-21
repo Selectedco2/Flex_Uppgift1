@@ -1,0 +1,30 @@
+
+body{
+    padding: 10px;
+}
+a{
+    font-size: 20px;
+    font-family: monospace;
+}
+.main{
+    border: 3px solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.rubrik{
+    border: 2px solid;
+    width: 49%;
+    text-align: center;
+}
+.link{
+    border: 2px solid;
+    text-align: center;
+    background-color: lightskyblue;
+    font-size: 20px;
+    font-family: monospace;
+    width: 400px;
+}
